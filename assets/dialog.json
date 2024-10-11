@@ -1,0 +1,56 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "Step into a world where love blossoms, where every moment is a poem, and every glance a verse.❤️",
+                "Meet, the woman who sets my soul alight, whose laughter is the soundtrack to my happiness. 💎",
+                "She's a warrior, with a heart of gold and a spirit that can conquer anything✨",
+                "She's the sunshine on a cloudy day, the rainbow after the storm, the reason I believe in magic.",
+                "With her, every ordinary moment becomes extraordinary, every day an adventure.💫",
+                "Life's journey is filled with unexpected turns, but our love remains a constant...",
+                "<img src='img/1.jpg'>",
+                "Even in tears, she's breathtaking. I'll always be here to wipe them away and hold her close.",
+                "Her smile, a beacon of hope, chases away the darkness and illuminates my world.",
+                "<img src='img/2.jpg'>",
+                "She awakens like a dream, her beauty radiating with the soft glow of dawn.",
+                "She inspires me to be a better man, to reach for the stars and chase my dreams.",
+                "In the quiet moments, her thoughts run deep, like the ocean's currents...",
+                "<img src='img/3.jpg'>",
+                "I see the sadness in her eyes, a fleeting shadow that only makes her more human, more real.",
+                "Through thick and thin, I'll be her anchor, her safe harbor in the storm.",
+                "<img src='img/4.jpg'>",
+                "Fresh and radiant, she emerges like a goddess, her beauty enhanced by the gentle touch of water.",
+                "<img src='img/5.jpg'>",
+                "Her eyes sparkle with love and laughter, a reflection of the beautiful soul within.",
+                "<img src='img/6.png'>",
+                "A playful wink, a mischievous glance, and my heart skips a beat.",
+                "<img src='img/7.png'>",
+                "Her humor brightens my day, her laughter is the music that makes my soul dance.",
+                "<img src='img/8.png'>",
+                "A kiss, a promise, a moment of pure bliss that I'll cherish forever.💑",
+                "In her arms, I find solace, passion, and a love that knows no bounds.",
+                "<img src='img/9.jpg'>",
+                "If our love were a song, what would it be?"
+            ]
+        ],
+        "responses": [{
+            "content": "Eternal Serenade",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "<img src='img/10.jpg'>",
+                "It would be a symphony, a masterpiece composed of laughter, passion, and unwavering devotion.",
+                "A melody that starts softly, building to a crescendo of overwhelming emotion, echoing through eternity.",
+                "With verses filled with tenderness and choruses that celebrate the joy of being together.",
+                "A song with a rhythm that matches our heartbeats, a harmony that reflects the way our souls intertwine.",
+                "A timeless classic, a love song that will be played for generations to come.",
+                "Because our love is a song that deserves to be heard, a melody that will forever resonate in my heart. - Shiviii"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
